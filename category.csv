@@ -1,0 +1,15 @@
+"category","viewers","cart_users","buyers","drop_view_to_cart_pct","drop_cart_to_buy_pct"
+"electronics",16682,2442,1462,85.4,40.1
+"unknown",15067,522,259,96.5,50.4
+"appliances",5364,427,228,92.0,46.6
+"apparel",2523,2,0,99.9,100.0
+"computers",2425,107,60,95.6,43.9
+"furniture",1951,15,6,99.2,60.0
+"auto",1559,51,26,96.7,49.0
+"construction",1012,55,24,94.6,56.4
+"kids",943,9,6,99.0,33.3
+"accessories",485,4,2,99.2,50.0
+"sport",415,3,1,99.3,66.7
+"country_yard",35,0,0,100.0,NULL
+"medicine",35,2,0,94.3,100.0
+"stationery",17,1,1,94.1,0.0
